@@ -2,4 +2,4 @@
 MagitechCraft Capes
 
 
-Powered by [https://github.com/jadar/DeveloperCapes](DeveloperCapes).
+Powered by [DeveloperCapes](https://github.com/jadar/DeveloperCapes).
