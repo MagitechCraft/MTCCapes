@@ -1,3 +1,23 @@
 {
-  
+  "Developer": {
+    "capeUrl": "https://github.com/MagitechCraft/MTCCapes/capes/developer.png",
+    "users": [
+      "LewisTehMinerz"  
+    ],
+    "__comment__": "Cape for developers."
+  },
+ "OfficialYT": {
+    "capeUrl": "https://github.com/MagitechCraft/MTCCapes/capes/officialyt.png",
+    "users": [
+      "LoganTehMinerz",
+      "TommyTehMinerz"
+    ],
+    "__comment__": "Cape for official YouTubers."
+  },
+  "Tester": {
+    "capeUrl": "https://github.com/MagitechCraft/MTCCapes/capes/tester.png",
+    "users": [
+    ],
+    "__comment__": "Cape for people who have beta/alpha tested the modpack."
+  }
 }
